@@ -1,12 +1,12 @@
 import React from 'react'
 
 export const Footer = () => {
- 
+
     return (
         <footer className="bg-dark text-light py-4" >
             <p className="text-center ">
-            Copyright &copy;MytodosList.com
-</p>
+                Copyright &copy;iFirstoToDosList.com
+            </p>
         </footer>
     )
 }
