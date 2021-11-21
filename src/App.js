@@ -1,9 +1,9 @@
-import './App.css';
-import Header from "./MyCoponents/Header";
-import { Footer } from "./MyCoponents/Footer";
-import { Todos } from "./MyCoponents/Todos";
-import { Addtodo } from "./MyCoponents/Addtodo";
-import { About } from "./MyCoponents/About";
+import './iFirstoToDosList/App.css';
+import Header from "./iFirstoToDosList/MyCoponents/Header";
+import { Footer } from "./iFirstoToDosList/MyCoponents/Footer";
+import { Todos } from "./iFirstoToDosList/MyCoponents/Todos";
+import { Addtodo } from "./iFirstoToDosList/MyCoponents/Addtodo";
+import { About } from "./iFirstoToDosList/MyCoponents/About";
 import React, { useState, useEffect } from 'react';
 import {
   BrowserRouter as Router,
